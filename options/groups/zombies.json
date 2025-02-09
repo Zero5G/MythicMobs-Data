@@ -1,0 +1,21 @@
+{
+    "PreventJockeyMounts": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#preventjockeymounts"
+    },
+    "PreventConversion": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#preventconversion",
+        "comment": "Prevents conversion, eg. Zombie to Drowned"
+    },
+    "ReinforcementsChance": {
+        "required": false,
+        "type": "percentage",
+        "default": 0.0,
+        "wiki": "Mobs/Options#reinforcementschance"
+    }
+}

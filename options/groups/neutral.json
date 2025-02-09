@@ -1,0 +1,9 @@
+{
+    "Angry": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#angry",
+        "comment": "Because of a Bukkit/Spigot bug wolfs can't spawn angry, use AIGoalSelectors and AITargetSelectors to achieve the same effect."
+    }
+}

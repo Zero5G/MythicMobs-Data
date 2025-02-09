@@ -1,0 +1,11 @@
+{
+    "BoatType": {
+        "required": true,
+        "type": "option",
+        "default_value": "OAK",
+        "allowed_values": [
+            "ACACIA", "BAMBOO", "BIRCH", "CHERRY", "DARK_OAK", "JUNGLE", "MANGROVE", "OAK", "SPRUCE"
+        ],
+        "wiki": "Mobs/Options#boat-boatchest"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Tameable": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#tameable"
+    }
+}

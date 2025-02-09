@@ -1,0 +1,33 @@
+{
+    "Age": {
+        "required": false,
+        "type": "integer",
+        "default_value": 1,
+        "wiki": "Mobs/Options#age",
+        "comment": "-1 for baby mobs and 1 and above for adult mobs."
+    },
+    "AgeLock": {
+        "required": false,
+        "type": "boolean",
+        "default_value": false,
+        "dependent_on": "Age",
+        "wiki": "Mobs/Options#agelock",
+        "comment": "If true, the mob will not age."
+    },
+    "Adult": {
+        "required": false,
+        "type": "boolean",
+        "default_value": true,
+        "dependent_on": "Age",
+        "wiki": "Mobs/Options#adult",
+        "comment": "Use if 'Age' doesn't work."
+    },
+    "Baby": {
+        "required": false,
+        "type": "boolean",
+        "default_value": true,
+        "dependent_on": "Age",
+        "wiki": "Mobs/Options#baby",
+        "comment": "Use if 'Age' doesn't work."
+    }
+}

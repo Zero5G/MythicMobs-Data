@@ -1,0 +1,20 @@
+{
+    "CanJoinRaid": {
+        "required": false,
+        "type": "boolean",
+        "default": true,
+        "wiki": "Mobs/Options#canjoinraid"
+    },
+    "PatrolLeader": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#patrolleader"
+    },
+    "PatrolSpawnPoint": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#patrolspawnpoint"
+    }
+}

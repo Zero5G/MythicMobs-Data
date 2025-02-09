@@ -1,0 +1,12 @@
+{
+    "Color": {
+        "required": false,
+        "type": "option",
+        "default_value": "WHITE",
+        "allowed_values": [
+            "BLACK", "BLUE", "BROWN", "CYAN", "GRAY", "GREEN", "LIGHT_BLUE", "LIGHT_GRAY",
+            "LIME", "MAGENTA", "ORANGE", "PINK", "PURPLE", "RED", "WHITE", "YELLOW"
+        ],
+        "wiki": "Mobs/Options#color"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Size": {
+        "required": false,
+        "type": "integer",
+        "default": 1,
+        "wiki": "Mobs/Options#entities-with-variable-size",
+        "comment": "Slimes, Magma Cubes, and Phantoms."
+    }
+}

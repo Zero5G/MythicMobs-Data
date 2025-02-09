@@ -1,0 +1,8 @@
+{
+    "PreventSlimeSplit": {
+        "required": false,
+        "type": "boolean",
+        "default": false,
+        "wiki": "Mobs/Options#preventslimesplit"
+    }
+}
